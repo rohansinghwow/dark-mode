@@ -52,7 +52,7 @@
   }
   
   .toggler p {
-    font-size: 0.625rem;
+    font-size: 1rem;
     font-weight: 600;
   }
   
@@ -115,6 +115,7 @@
     flex: 1 1 auto;
     background-color: white;
     color: #2B283A;
+    
   }
   
   main.dark {
